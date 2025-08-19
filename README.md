@@ -1,5 +1,5 @@
 # ReportGen
-developed by Jianye Ge, PhD
+developed by Jianye Ge, PhD (https://github.com/GeJGit)
 
 ## FDOH's files for outbreak report generation
 
